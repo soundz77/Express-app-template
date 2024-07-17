@@ -1,6 +1,6 @@
 # Express app template
 
-A modular Express REST API featuring logging (to file/console) and global error handling. Envalid is used for environment variable validation.
+A modular Express app with logging (to file/console) and global error handling. Envalid is used for environment variable validation. Basic middleware is already setup and can be easily changed.
 
 ## Getting Started
 
